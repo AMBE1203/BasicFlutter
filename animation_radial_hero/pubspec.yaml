@@ -1,4 +1,4 @@
-name: animation_hero
+name: animation_radial_hero
 description: A new Flutter application.
 
 # The following defines the version and build number for your application.
@@ -40,7 +40,7 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - images/flippers-alpha.png
+    - images/
 
   # To add assets to your application, add an assets section, like this:
   # assets:
